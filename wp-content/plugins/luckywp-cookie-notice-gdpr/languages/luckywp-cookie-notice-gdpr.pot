@@ -1,0 +1,338 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LuckyWP Cookie Notice (GDPR)\n"
+"POT-Creation-Date: 2020-08-15 11:08+0300\n"
+"PO-Revision-Date: 2018-09-27 16:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_html;_attr;esc_html__;_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/Admin.php:25
+msgid "Settings"
+msgstr ""
+
+#: admin/Admin.php:38 admin/views/settings/index.php:13
+msgid "Cookie Notice (GDPR) Settings"
+msgstr ""
+
+#: admin/Admin.php:39
+msgid "Cookie Notice (GDPR)"
+msgstr ""
+
+#: admin/views/rate/notice.php:10
+msgid "Hello!"
+msgstr ""
+
+#: admin/views/rate/notice.php:14
+#, php-format
+msgid ""
+"We are very pleased that you by now have been using the %s plugin a few days."
+msgstr ""
+
+#: admin/views/rate/notice.php:18
+msgid "Please rate plugin. It will help us a lot."
+msgstr ""
+
+#: admin/views/rate/notice.php:21
+msgid "Rate the plugin"
+msgstr ""
+
+#: admin/views/rate/notice.php:28
+msgid "Remind later"
+msgstr ""
+
+#: admin/views/rate/notice.php:34
+msgid "Don't show again"
+msgstr ""
+
+#: admin/views/rate/notice.php:42
+msgid "Thank you very much!"
+msgstr ""
+
+#: admin/views/settings/index.php:10
+#, php-format
+msgid "Leave a %s plugin review on WordPress.org"
+msgstr ""
+
+#: config/settings.php:11
+msgid "General"
+msgstr ""
+
+#: config/settings.php:14 config/settings.php:171
+msgid "Notice"
+msgstr ""
+
+#: config/settings.php:18
+msgid "Message"
+msgstr ""
+
+#: config/settings.php:25
+msgid ""
+"We use cookies in order to give you the best possible experience on our "
+"website. By continuing to use this site, you agree to our use of cookies."
+msgstr ""
+
+#: config/settings.php:31
+msgid "Buttons"
+msgstr ""
+
+#: config/settings.php:35
+msgid "Button \"Accept\" Label"
+msgstr ""
+
+#: config/settings.php:37
+msgid "Accept"
+msgstr ""
+
+#: config/settings.php:45
+msgid "Show button \"Reject\""
+msgstr ""
+
+#: config/settings.php:53
+msgid "Button \"Reject\" Label"
+msgstr ""
+
+#: config/settings.php:60
+msgid "Reject"
+msgstr ""
+
+#: config/settings.php:68
+msgid "Show button \"More\""
+msgstr ""
+
+#: config/settings.php:78
+msgid "Button \"More\""
+msgstr ""
+
+#: config/settings.php:82 config/settings.php:152
+msgid "Button Label"
+msgstr ""
+
+#: config/settings.php:84
+msgid "Read More…"
+msgstr ""
+
+#: config/settings.php:88
+msgid "Link Type"
+msgstr ""
+
+#: config/settings.php:92
+msgid "Page link"
+msgstr ""
+
+#: config/settings.php:93
+msgid "Custom link"
+msgstr ""
+
+#: config/settings.php:103
+msgid "Page"
+msgstr ""
+
+#: config/settings.php:113
+msgid "Link"
+msgstr ""
+
+#: config/settings.php:123
+msgid "Open Link in…"
+msgstr ""
+
+#: config/settings.php:127
+msgid "New tab"
+msgstr ""
+
+#: config/settings.php:128
+msgid "Current tab"
+msgstr ""
+
+#: config/settings.php:136 config/settings.php:247
+msgid "Button \"Show Again\""
+msgstr ""
+
+#: config/settings.php:144
+msgid "Use button \"Show Again\""
+msgstr ""
+
+#: config/settings.php:159 front/widgets/showAgain/ShowAgain.php:15
+msgid "Privacy Policy"
+msgstr ""
+
+#: config/settings.php:168
+msgid "Appearance"
+msgstr ""
+
+#: config/settings.php:175 config/settings.php:251
+msgid "Color Scheme"
+msgstr ""
+
+#: config/settings.php:179 config/settings.php:255
+msgid "Light"
+msgstr ""
+
+#: config/settings.php:180 config/settings.php:256
+msgid "Dark"
+msgstr ""
+
+#: config/settings.php:187
+msgid "Template"
+msgstr ""
+
+#: config/settings.php:191
+msgid "Bar"
+msgstr ""
+
+#: config/settings.php:192
+msgid "Box"
+msgstr ""
+
+#: config/settings.php:202
+msgid "Bar Position"
+msgstr ""
+
+#: config/settings.php:206
+msgid "Top"
+msgstr ""
+
+#: config/settings.php:207
+msgid "Bottom"
+msgstr ""
+
+#: config/settings.php:217
+msgid "Box Position"
+msgstr ""
+
+#: config/settings.php:221 config/settings.php:267
+msgid "Bottom Left"
+msgstr ""
+
+#: config/settings.php:222 config/settings.php:268
+msgid "Bottom Right"
+msgstr ""
+
+#: config/settings.php:223
+msgid "Top Left"
+msgstr ""
+
+#: config/settings.php:224
+msgid "Top Right"
+msgstr ""
+
+#: config/settings.php:234
+msgid "Margin"
+msgstr ""
+
+#: config/settings.php:263
+msgid "Position"
+msgstr ""
+
+#: config/settings.php:275
+msgid "Margin Bottom"
+msgstr ""
+
+#: config/settings.php:287
+msgid "Margin Side"
+msgstr ""
+
+#: config/settings.php:304
+msgid "Scripts"
+msgstr ""
+
+#: config/settings.php:308
+msgid "This scripts will be added to the page if user has give consent."
+msgstr ""
+
+#: config/settings.php:311
+#, php-format
+msgid "To get the cookie notice status in PHP use %s or %s functions."
+msgstr ""
+
+#: config/settings.php:319
+msgid "Header"
+msgstr ""
+
+#: config/settings.php:326
+msgid "Before the closing HEAD tag. Example,"
+msgstr ""
+
+#: config/settings.php:332
+#, php-format
+msgid "After opening %s"
+msgstr ""
+
+#: config/settings.php:341
+msgid "After the opening BODY tag. Example,"
+msgstr ""
+
+#: config/settings.php:345
+msgid "Footer"
+msgstr ""
+
+#: config/settings.php:352
+msgid "Before the closing BODY tag. Example,"
+msgstr ""
+
+#: config/settings.php:361
+msgid "Advanced"
+msgstr ""
+
+#: config/settings.php:367
+msgid "Cookie Expire"
+msgstr ""
+
+#: config/settings.php:373
+msgid "days"
+msgstr ""
+
+#: config/settings.php:379
+msgid "Reload page…"
+msgstr ""
+
+#: config/settings.php:383
+msgid "after button \"Accept\" click"
+msgstr ""
+
+#: config/settings.php:394
+msgid "after button \"Reject\" click"
+msgstr ""
+
+#: config/settings.php:401
+msgid "Caching plugins integration"
+msgstr ""
+
+#: config/settings.php:405
+msgid "Automatically"
+msgstr ""
+
+#: config/settings.php:406
+msgid "Enable"
+msgstr ""
+
+#: config/settings.php:407
+msgid "Disable"
+msgstr ""
+
+#: config/settings.php:418
+msgid "LuckyWP Plugins"
+msgstr ""
+
+#: core/admin/AdminController.php:46
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: core/wp/Settings.php:545
+msgid "Select page"
+msgstr ""
+
+#: plugin/Plugin.php:91
+msgid ""
+"The plugin allows you to notify visitors about the use of cookies (necessary "
+"to comply with the GDPR in the EU)."
+msgstr ""

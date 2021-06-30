@@ -1,0 +1,4 @@
+[21-May-2021 05:34:39 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 21

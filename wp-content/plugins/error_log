@@ -1,0 +1,4 @@
+[29-Apr-2021 11:32:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/hello.php on line 69

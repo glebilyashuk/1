@@ -1,0 +1,179 @@
+[11-Apr-2021 02:47:27 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[18-May-2021 10:56:24 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 444
+[26-May-2021 08:59:48 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 444
+[27-May-2021 13:11:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[28-May-2021 13:16:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[28-May-2021 13:17:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[28-May-2021 13:17:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[30-May-2021 01:17:35 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[31-May-2021 07:20:09 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/meta.php on line 1078
+[01-Jun-2021 13:11:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[03-Jun-2021 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[05-Jun-2021 19:14:14 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 444
+[06-Jun-2021 02:30:11 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[06-Jun-2021 13:05:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[07-Jun-2021 12:48:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[10-Jun-2021 12:59:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[11-Jun-2021 12:53:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[11-Jun-2021 13:05:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[11-Jun-2021 19:29:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/template.php on line 732
+[12-Jun-2021 13:13:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[13-Jun-2021 02:11:31 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[14-Jun-2021 12:50:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[15-Jun-2021 12:55:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[18-Jun-2021 13:21:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[19-Jun-2021 12:50:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[19-Jun-2021 23:33:10 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[20-Jun-2021 14:11:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[21-Jun-2021 12:56:46 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php:355
+Stack trace:
+#0 /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/boot.php(20): WCL_Helper::fetch_google_page_speed_audit()
+#1 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(292): WCL_Plugin->{closure}()
+#2 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /home/g81141/public_html/semenapoliyabanya.com/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#4 /home/g81141/public_html/semenapoliyabanya.com/wp-cron.php(138): do_action_ref_array('wclearfy/google...', Array)
+#5 {main}
+  thrown in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/clearfy/includes/helpers.php on line 355
+[22-Jun-2021 17:16:23 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/luckywp-cookie-notice-gdpr/lwpcngAutoloader.php on line 91
+[25-Jun-2021 04:59:51 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/elementor/includes/autoloader.php on line 294
+[26-Jun-2021 14:44:37 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 524288 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/includes/types/fas.php on line 2627
+[27-Jun-2021 00:12:35 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[27-Jun-2021 02:22:00 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[27-Jun-2021 02:35:30 UTC] PHP Warning:  mysqli_query(): (HY000/2006): MySQL server has gone away in /home/g81141/public_html/semenapoliyabanya.com/wp-includes/wp-db.php on line 2056
+[28-Jun-2021 16:21:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/g81141/public_html/semenapoliyabanya.com/wp-content/plugins/elementor/includes/base/controls-stack.php on line 585
